@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hi, I'm Elli Shlomo 👋 I'm a 🚀 SecDevOps 🚀 I ](https://github.com/matyo91/matyo91/raw/master/assets/github.gif)
+
 
 <p align="center">
   <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
