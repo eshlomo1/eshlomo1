@@ -1,6 +1,5 @@
-### Hi there 👋
 
-[![Hello](https://www.eshlomo.us/wp-content/uploads/2020/07/2020-07-16_23h57_08.mp4)](https://www.linkedin.com/in/elishlomo/)
+[![Hello](https://www.eshlomo.us/wp-content/uploads/2020/07/ES.gif)](https://www.linkedin.com/in/elishlomo/)
 
 Howdy. I'm Elli Shlomo, and doing many great stuff in Security and DevOps with Azure, Microsoft 365, and etc.
 
