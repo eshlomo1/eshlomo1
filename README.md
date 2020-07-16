@@ -1,6 +1,3 @@
-
-[![Hello](https://www.eshlomo.us/wp-content/uploads/2020/07/ES.gif)](https://www.linkedin.com/in/elishlomo/)
-
 Howdy. I'm Elli Shlomo, and doing many great stuff in Security and DevOps with Azure, Microsoft 365, and etc.
 
 I'm [Microsoft MVP for Cloud and Datacenter Management](https://mvp.microsoft.com/en-us/PublicProfile/5000358?fullName=Eli%20Shlomo) for the fifth time this year. 
