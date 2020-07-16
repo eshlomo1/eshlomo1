@@ -1,8 +1,13 @@
 ### Hi there 👋
 
+[![Hello](https://github.com/eshlomo1/elli/blob/master/ES.png)](https://www.linkedin.com/in/elishlomo/)
+
+Howdy. I'm Elli Shlomo, and doing many great stuff in Security and DevOps with Azure, Microsoft 365, and etc.
+
+I'm [Microsoft MVP for Cloud and Datacenter Management](https://mvp.microsoft.com/en-us/PublicProfile/5000358?fullName=Eli%20Shlomo) for the fifth time this year. 
+Creating and uploading many stuff to my repos and writing to my own two blogs (https://eshlomo.us) and (https://eshlomo.blog), for more information check out my [Linkedin Profile](https://www.linkedin.com/in/elishlomo/).
 <!--
 **eshlomo1/eshlomo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
