@@ -1,4 +1,4 @@
-### Howdy. I'm Elli 
+### Howdy 
 
 <img src="https://github.com/eshlomo1/eshlomo1/blob/master/ES9-1.jpg">
 
