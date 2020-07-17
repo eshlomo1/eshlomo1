@@ -1,9 +1,8 @@
 ### Howdy. I'm Elli 
 
+<img src="https://github.com/eshlomo1/eshlomo1/blob/master/ES91.png">
 
-I'm [Microsoft MVP for Cloud and Datacenter Management](https://mvp.microsoft.com/en-us/PublicProfile/5000358?fullName=Eli%20Shlomo) for the fifth time this year. 
-Creating and uploading many stuff to my repos and writing to my own two blogs [ESHLOMO.US](https://eshlomo.us) and [ESHLOMO,BLOG](https://eshlomo.blog), for more information check out my [Linkedin Profile](https://www.linkedin.com/in/elishlomo/).
-
+I'm [Microsoft MVP for Cloud and Datacenter Management](https://mvp.microsoft.com/en-us/PublicProfile/5000358?fullName=Eli%20Shlomo), and I'm creating and uploading many good stuff and writing to my own blogs [ESHLOMO.US](https://eshlomo.us) and [ESHLOMO,BLOG](https://eshlomo.blog), for more information check out my [Linkedin Profile](https://www.linkedin.com/in/elishlomo/).
 
 <!--
 **eshlomo1/eshlomo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
