@@ -2,7 +2,7 @@
 
 <img src="https://github.com/eshlomo1/eshlomo1/blob/master/ElliShlomo.png">
 
-I'm [Microsoft MVP for Cloud and Datacenter Management](https://mvp.microsoft.com/en-us/PublicProfile/5000358?fullName=Eli%20Shlomo), and I'm creating and uploading many good stuff and writing to my own blogs [MISCONFIG](https://misconfig.io/). For more information check out my [Linkedin Profile](https://www.linkedin.com/in/elishlomo/).
+I'm [Microsoft MVP Security(SIEM & XDR, Cloud Security)](https://mvp.microsoft.com/en-US/mvp/profile/46650ff3-3c9a-e411-93f2-9cb65495d3c4),and I'm creating and uploading technical stuff and writing to the blog [Cyberdom](https://cyberdom.blog). For more information check out my [Linkedin Profile](https://www.linkedin.com/in/elishlomo/) and my [X profile](https://twitter.com/ellishlomo).
 
 <!--
 **eshlomo1/eshlomo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
