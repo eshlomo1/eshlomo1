@@ -1,7 +1,7 @@
 <!-- README.md for eshlomo1 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00bfff,ff69b4,1e90ff&height=200&section=header&text=Elli%20Shlomo%20%7C%20eshlomo1&fontSize=50&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00bfff,1e90ff,00ced1&height=200&section=header&text=Elli%20Shlomo%20%7C%20eshlomo1&fontSize=50&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 <p align="center">
   <b>Welcome to my cyber playground.</b><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Threat+Hunter;Cloud+Breaker;DFIR+Automator;Red+Team+Ops;Signal+Over+Noise" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Threat+Hunter+%7C+Cloud+IR+%7C+AI+Security+Advocate;Cloud+Breaker;DFIR+Automator;Red+Team+Ops;Signal+Over+Noise" />
   <br>
   <i>Building the future of security, one offensive script at a time.</i>
 </p>
@@ -32,7 +32,7 @@
       </a>
       <br>
       <b>CloudSec</b><br>
-      <sub>Threat hunting, attack simulation, automation.</sub>
+      <sub>Threat hunting, cloud IR, AI security advocate, attack simulation, automation.</sub>
     </td>
     <td>
       <a href="https://github.com/eshlomo1/Microsoft-Sentinel-SecOps">
