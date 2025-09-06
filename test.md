@@ -1,43 +1,53 @@
+<!-- README.md for eshlomo1 -->
 
-# Elli Shlomo | eshlomo1
-
-**Microsoft MVP Security (SIEM & XDR, Cloud Security) | Head of Security Research @ Guardz | Red Team Lead**
-
-Welcome to my GitHub arsenal. I build, break, and document security tools for cloud, SOC, and DFIR teams. If you want sharp detection logic, offensive insights, and operational code—start here.
+<h1 align="center">🌊 Elli Shlomo | eshlomo1 🦄</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20MVP-blue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Red%20Team-pink?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-ocean-00bfff?style=for-the-badge&logo=azuredevops" />
+</p>
 
 ---
 
-## 🚩 Featured Projects
+<p align="center">
+  <b>Welcome to my cyber playground.</b><br>
+  I break, automate, and hunt threats in the cloud.<br>
+  If you want real detection logic, offensive scripts, and DFIR war stories—grab a ☕️ and dive in.<br>
+  <img src="https://img.shields.io/badge/Signal%20Over%20Noise-blueviolet?style=flat-square" />
+</p>
+
+---
+
+## 🚀 Featured Repos
 
 - [CloudSec](https://github.com/eshlomo1/CloudSec)  
-  *Offensive & defensive cloud security toolkit: threat hunting scripts, attack simulation, automation.*
+  <img src="https://img.shields.io/badge/Cloud-Offensive%20%26%20Defensive-00bfff?style=flat-square" />  
+  *Threat hunting, attack simulation, automation.*
 
 - [Microsoft-Sentinel-SecOps](https://github.com/eshlomo1/Microsoft-Sentinel-SecOps)  
-  *SOC automation, KQL queries, incident templates, detection engineering.*
+  <img src="https://img.shields.io/badge/SOC-KQL%20%26%20Automation-ff69b4?style=flat-square" />  
+  *SOC automation, KQL queries, incident templates.*
 
 - [Azure-AD-Incident-Response](https://github.com/eshlomo1/Azure-AD-Incident-Response)  
-  *Incident response flows, attack simulation, token protection concepts.*
+  <img src="https://img.shields.io/badge/Azure%20AD-IR%20Flows%20%26%20Token%20Abuse-1e90ff?style=flat-square" />  
+  *Incident response, token protection, attack flows.*
 
 - [MS-Defender-4-xOPS](https://github.com/eshlomo1/MS-Defender-4-xOPS)  
-  *PowerShell for endpoint ops, detection, and response.*
+  <img src="https://img.shields.io/badge/Endpoint-PowerShell%20Ops-00ced1?style=flat-square" />  
+  *Detection, response, PowerShell for endpoint ops.*
 
 ---
 
-## 🛠️ About Me
+## 😎 About Me
 
-- Microsoft MVP (Security, Azure, M365)
-- Head of Security Research @ Guardz
-- Blog: [Cyberdom.blog](https://cyberdom.blog/)
-- X: [@ellishlomo](https://x.com/ellishlomo)
-- LinkedIn: [in/elishlomo](https://linkedin.com/in/elishlomo)
-
----
-
-## 📡 Signal Over Noise
-
-I publish detection rules, cloud attack flows, and SOC automation scripts. No fluff—just operational signal.  
-For fresh research, hit up [Cyberdom.blog](https://cyberdom.blog/). For real-time rants, [X](https://x.com/ellishlomo). For networking, [LinkedIn](https://linkedin.com/in/elishlomo).
+- 🏆 Microsoft MVP (Security, Azure, M365)
+- 🎤 Organizer: User Groups IL
+- 📝 Blog: [Cyberdom.blog](https://cyberdom.blog/)
+- 🐦 [X](https://x.com/ellishlomo) | 💼 [LinkedIn](https://linkedin.com/in/elishlomo)
 
 ---
 
-> **Just GIT.**
+<p align="center">
+  <b>🌊 Blue, Pink, Ocean. No fluff. Just operational code.</b><br>
+  <i>DMs open for collabs, rants, and cyber memes.</i> 🦄
+</p>
