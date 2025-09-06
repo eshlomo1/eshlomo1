@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20MVP-blue?style=for-the-badge&logo=microsoft" />
-  <img src="https://img.shields.io/badge/Red%20Team-pink?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/Cloud%20Security-ocean-00bfff?style=for-the-badge&logo=azuredevops" />
-  <img src="https://img.shields.io/badge/DFIR-Future%20Ready-1e90ff?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Microsoft%20MVP-00bfff?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Red%20Team-ff69b4?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-1e90ff?style=for-the-badge&logo=azuredevops" />
+  <img src="https://img.shields.io/badge/DFIR-Future%20Ready-00ced1?style=for-the-badge&logo=powerbi" />
 </p>
 
 ---
@@ -69,14 +69,13 @@
 
 - 🏆 Microsoft MVP (Security, Azure, M365)
 - 🛡️ Head of Security Research @ Guardz
-- 🎤 Organizer: User Groups IL
 - 📝 Blog: [Cyberdom.blog](https://cyberdom.blog/)
 - 🐦 [X](https://x.com/ellishlomo) | 💼 [LinkedIn](https://linkedin.com/in/elishlomo)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=ff69b4,00bfff,1e90ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00bfff,1e90ff,00ced1&height=100&section=footer" />
   <br>
   <b>🌊 Blue, Pink, Ocean. No fluff. Just operational code. Future ready.</b><br>
   <i>DMs open for collabs, rants, and cyber memes.</i> 🦄
