@@ -1,7 +1,7 @@
 <!-- README.md for eshlomo1 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00bfff,1e90ff,00ced1&height=200&section=header&text=Elli%20Shlomo%20%7C%20eshlomo1&fontSize=50&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00bfff:1e90ff:00ced1&height=200&section=header&text=Elli%20Shlomo%20%7C%20eshlomo1&fontSize=50&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -69,13 +69,14 @@
 
 - 🏆 Microsoft MVP (Security, Azure, M365)
 - 🛡️ Head of Security Research @ Guardz
+- 🎤 Organizer: User Groups IL
 - 📝 Blog: [Cyberdom.blog](https://cyberdom.blog/)
 - 🐦 [X](https://x.com/ellishlomo) | 💼 [LinkedIn](https://linkedin.com/in/elishlomo)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00bfff,1e90ff,00ced1&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00bfff:1e90ff:00ced1&height=100&section=footer" />
   <br>
   <b>🌊 Blue, Pink, Ocean. No fluff. Just operational code. Future ready.</b><br>
   <i>DMs open for collabs, rants, and cyber memes.</i> 🦄
