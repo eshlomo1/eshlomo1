@@ -8,7 +8,7 @@ With a background in red-team tools, DFIR, threat hunting, cloud, and XDR (acros
 ---
 
 ## 🤖 OffSec AI / AI Security Research  
-The next wave of attack simulation isn’t human-only.  
+
 I’m leading research into **Offensive AI (OffSec AI)** exploring how AI models, multi-agent systems, and orchestration frameworks can be exploited or hardened in real-world security contexts.  
 
 Current work includes:  
