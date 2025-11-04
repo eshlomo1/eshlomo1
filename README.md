@@ -1,9 +1,6 @@
 # Elli Shlomo  
 
-**Microsoft Security MVP  • Security Research • Cloud & AI Security Specialist • DFIR**  
-# Elli Shlomo  
-
-**Microsoft Security MVP  • Security Research • Cloud & AI Security Specialist • DFIR**  
+**Microsoft Security MVP • Security Research • Cloud & AI Security Specialist • DFIR**  
 <a href="https://mvp.microsoft.com/" target="_blank">
   <img align="right" src="https://mvp.microsoft.com/Assets/UserProfile/MVP/Badge.svg" width="60" alt="Microsoft MVP Badge">
 </a>
