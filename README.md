@@ -1,6 +1,7 @@
 # Elli Shlomo  
 
 **Microsoft Security MVP  • Security Research • Cloud & AI Security Specialist • DFIR**  
+[![Microsoft MVP](https://learn.microsoft.com/en-us/media/learn/mvp/mvp-badge.svg)](https://learn.microsoft.com/en-us/mvp)
 
 I’m a security researcher who lives at the intersection of offensive operations, cloud abuse, identity abuse, and enterprise defence.  
 With a background in red-team tools, DFIR, threat hunting, cloud, and XDR (across M365, Azure, GCP, GWS), I enable defenders and testers to navigate the evolving threat terrain.
