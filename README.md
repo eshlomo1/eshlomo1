@@ -58,22 +58,6 @@ With a background in red-team tools, DFIR, threat hunting, cloud, and XDR (acros
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=eshlomo1&show_icons=true&theme=dark&hide_title=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshlomo1&layout=compact&theme=dark)
-
-**Custom Language Focus**
-
-![PowerShell](https://img.shields.io/badge/PowerShell-Security-blue?logo=powershell)
-![Go](https://img.shields.io/badge/Go-OffSec-green?logo=go)
-![Python](https://img.shields.io/badge/Python-AI_Research-yellow?logo=python)
-![KQL](https://img.shields.io/badge/KQL-Threat_Hunting-orange)
-![YAML](https://img.shields.io/badge/YAML-Automation-gray)
-![JSON](https://img.shields.io/badge/JSON-API_Telemetry-lightgrey)
-
----
-
 ## OffSec AI / AI Security Research  
 
 I’m leading research into **Offensive AI (OffSec AI)** exploring how AI models, multi-agent systems, and orchestration frameworks can be exploited or hardened in real-world security contexts.  
