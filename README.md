@@ -7,7 +7,7 @@ With a background in red-team tools, DFIR, threat hunting, cloud, and XDR (acros
 
 ---
 
-## 🤖 OffSec AI — AI Security Research  
+## 🤖 OffSec AI / AI Security Research  
 The next wave of attack simulation isn’t human-only.  
 I’m leading research into **Offensive AI (OffSec AI)** — exploring how AI models, multi-agent systems, and orchestration frameworks can be exploited or hardened in real-world security contexts.  
 
@@ -32,7 +32,6 @@ This research aims to close the gap between traditional threat modelling and AI-
 ## 📬 Connect with Me  
 - LinkedIn: [linkedin.com/in/ellishlomo](https://linkedin.com/in/ellishlomo)  
 - X (Twitter): [@ellishlomo_sec](https://twitter.com/ellishlomo_sec)  
-- Email: **ellisec@yourdomain.com** _(or update to your preferred contact)_
 
 ---
 
