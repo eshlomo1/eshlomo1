@@ -7,20 +7,6 @@ With a background in red-team tools, DFIR, threat hunting, cloud, and XDR (acros
 
 ---
 
-## OffSec AI / AI Security Research  
-
-I’m leading research into **Offensive AI (OffSec AI)** exploring how AI models, multi-agent systems, and orchestration frameworks can be exploited or hardened in real-world security contexts.  
-
-Current work includes:  
-- **AI Agent Exploitation**: understanding prompt injection, memory poisoning, model context protocol (MCP) weaknesses, and autonomous sub-agent control hijacking.  
-- **AI-SOC Development**: building frameworks that integrate LLM-based agents into SOC pipelines for automated triage, detection engineering, and red teaming.  
-- **PyRIT & MCP Experiments**: leveraging Microsoft’s PyRIT and custom evaluation pipelines to measure resilience against jailbreaks and prompt chaining attacks.  
-- **AI-SPM (AI Security Posture Management)**: defining new detection layers for LLM-powered services inside Defender for Cloud and Sentinel.  
-
-**Security by design is no longer optional, it’s survival.**
-
----
-
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=eshlomo1&show_icons=true&theme=dark&hide_title=true)
@@ -35,6 +21,19 @@ Current work includes:
 ![YAML](https://img.shields.io/badge/YAML-Automation-gray)
 ![JSON](https://img.shields.io/badge/JSON-API_Telemetry-lightgrey)
 
+---
+
+## OffSec AI / AI Security Research  
+
+I’m leading research into **Offensive AI (OffSec AI)** exploring how AI models, multi-agent systems, and orchestration frameworks can be exploited or hardened in real-world security contexts.  
+
+Current work includes:  
+- **AI Agent Exploitation**: understanding prompt injection, memory poisoning, model context protocol (MCP) weaknesses, and autonomous sub-agent control hijacking.  
+- **AI-SOC Development**: building frameworks that integrate LLM-based agents into SOC pipelines for automated triage, detection engineering, and red teaming.  
+- **PyRIT & MCP Experiments**: leveraging Microsoft’s PyRIT and custom evaluation pipelines to measure resilience against jailbreaks and prompt chaining attacks.  
+- **AI-SPM (AI Security Posture Management)**: defining new detection layers for LLM-powered services inside Defender for Cloud and Sentinel.  
+
+**Security by design is no longer optional, it’s survival.**
 
 ---
 ##  Speaking, Writing & Community  
