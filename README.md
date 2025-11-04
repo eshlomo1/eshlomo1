@@ -9,21 +9,21 @@ With a background in red-team tools, DFIR, threat hunting, cloud, and XDR (acros
 
 ## 🤖 OffSec AI / AI Security Research  
 The next wave of attack simulation isn’t human-only.  
-I’m leading research into **Offensive AI (OffSec AI)** — exploring how AI models, multi-agent systems, and orchestration frameworks can be exploited or hardened in real-world security contexts.  
+I’m leading research into **Offensive AI (OffSec AI)** exploring how AI models, multi-agent systems, and orchestration frameworks can be exploited or hardened in real-world security contexts.  
 
 Current work includes:  
-- **AI Agent Exploitation** — understanding prompt injection, memory poisoning, model context protocol (MCP) weaknesses, and autonomous sub-agent control hijacking.  
-- **AI-SOC Development** — building frameworks that integrate LLM-based agents into SOC pipelines for automated triage, detection engineering, and red teaming.  
-- **PyRIT & MCP Experiments** — leveraging Microsoft’s PyRIT and custom evaluation pipelines to measure resilience against jailbreaks and prompt chaining attacks.  
-- **AI-SPM (AI Security Posture Management)** — defining new detection layers for LLM-powered services inside Defender for Cloud and Sentinel.  
+- **AI Agent Exploitation**: understanding prompt injection, memory poisoning, model context protocol (MCP) weaknesses, and autonomous sub-agent control hijacking.  
+- **AI-SOC Development**: building frameworks that integrate LLM-based agents into SOC pipelines for automated triage, detection engineering, and red teaming.  
+- **PyRIT & MCP Experiments**: leveraging Microsoft’s PyRIT and custom evaluation pipelines to measure resilience against jailbreaks and prompt chaining attacks.  
+- **AI-SPM (AI Security Posture Management)**: defining new detection layers for LLM-powered services inside Defender for Cloud and Sentinel.  
 
 This research aims to close the gap between traditional threat modelling and AI-native attack surfaces.  
-**Security by design is no longer optional — it’s survival.**
+**Security by design is no longer optional, it’s survival.**
 
 ---
 
 ## 🎙️ Speaking, Writing & Community  
-- Featured on my blog: [Cyberdom.blog](https://cyberdom.blog) — deep dives into identity abuse, cloud hunting, AI red teaming, and OffSec AI.  
+- Featured on my blog: [Cyberdom.blog](https://cyberdom.blog) with deep dives into identity abuse, cloud hunting, AI red teaming, and OffSec AI.  
 - Regularly present at Purple Hat events (attack/defend tracks) and community meet-ups.  
 - Active on LinkedIn and X: follow for micro-insights on AI security, token abuse, and cloud IR.
 
