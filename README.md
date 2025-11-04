@@ -1,19 +1,39 @@
-### Hey 
+# Elli Shlomo  
 
-<img src="https://github.com/eshlomo1/eshlomo1/blob/master/ElliShlomo.png">
+**Microsoft MVP in Security • Security Research • Cloud & AI Security Specialist • DFIR**  
 
-I'm [Microsoft MVP Security(SIEM & XDR, Cloud Security)](https://mvp.microsoft.com/en-US/mvp/profile/46650ff3-3c9a-e411-93f2-9cb65495d3c4),and I'm creating and uploading technical stuff and writing to the blog [Cyberdom](https://cyberdom.blog). For more information check out my [Linkedin Profile](https://www.linkedin.com/in/elishlomo/) and my [X Profile](https://twitter.com/ellishlomo).
+I’m a security researcher who lives at the intersection of offensive operations, cloud abuse, identity abuse, and enterprise defence.  
+With a background in red-team tools, DFIR, threat hunting, cloud, and XDR (across M365, Azure, GCP, GWS), I enable defenders and testers to navigate the evolving threat terrain.
 
-<!--
-**eshlomo1/eshlomo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 OffSec AI — AI Security Research  
+The next wave of attack simulation isn’t human-only.  
+I’m leading research into **Offensive AI (OffSec AI)** — exploring how AI models, multi-agent systems, and orchestration frameworks can be exploited or hardened in real-world security contexts.  
+
+Current work includes:  
+1. **AI Agent Exploitation** — understanding prompt injection, memory poisoning, model context protocol (MCP) weaknesses, and autonomous sub-agent control hijacking.  
+2. **AI-SOC Development** — building frameworks that integrate LLM-based agents into SOC pipelines for automated triage, detection engineering, and red teaming.  
+3. **PyRIT & MCP Experiments** — leveraging Microsoft’s PyRIT and custom evaluation pipelines to measure resilience against jailbreaks and prompt chaining attacks.  
+4. **AI-SPM (AI Security Posture Management)** — defining new detection layers for LLM-powered services inside Defender for Cloud and Sentinel.  
+
+This research aims to close the gap between traditional threat modelling and AI-native attack surfaces.  
+**Security by design is no longer optional — it’s survival.**
+
+---
+
+## 🎙️ Speaking, Writing & Community  
+- Featured on my blog: [Cyberdom.blog](https://cyberdom.blog) — deep dives into identity abuse, cloud hunting, AI red teaming, and OffSec AI.  
+- Regularly present at Purple Hat events (attack/defend tracks) and community meet-ups.  
+- Active on LinkedIn and X: follow for micro-insights on AI security, token abuse, and cloud IR.
+
+---
+
+## 📬 Connect with Me  
+- LinkedIn: [linkedin.com/in/ellishlomo](https://linkedin.com/in/ellishlomo)  
+- X (Twitter): [@ellishlomo_sec](https://twitter.com/ellishlomo_sec)  
+- Email: **ellisec@yourdomain.com** _(or update to your preferred contact)_
+
+---
+
+> *“Security isn’t just a stack of tools, it’s a mindset. Whether you’re hunting tokens, fuzzing OAuth, or tracing lateral cloud movement, stay curious, stay sceptical, and keep building.”*
