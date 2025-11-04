@@ -31,8 +31,8 @@ This research aims to close the gap between traditional threat modelling and AI-
 
 ## GitHub Contribution Summary
 
-![Elli’s GitHub Streak](https://streak-stats.demolab.com/?user=eshlomo1&theme=dark)
-![Elli’s Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=eshlomo1&theme=github-dark)
+![Contribution Streak](https://streak-stats.demolab.com/?user=eshlomo1&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eshlomo1&theme=github-dark&hide_border=true)
 
 ---
 ## 🎙️ Speaking, Writing & Community  
