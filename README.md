@@ -22,6 +22,13 @@ This research aims to close the gap between traditional threat modelling and AI-
 
 ---
 
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=eshlomo1&show_icons=true&theme=dark&hide_title=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshlomo1&layout=compact&theme=dark)
+
+---
+
 ## 🎙️ Speaking, Writing & Community  
 - Featured on my blog: [Cyberdom.blog](https://cyberdom.blog) with deep dives into identity abuse, cloud hunting, AI red teaming, and OffSec AI.  
 - Regularly present at Purple Hat events (attack/defend tracks) and community meet-ups.  
