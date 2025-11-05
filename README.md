@@ -37,7 +37,7 @@ Current work includes:
 
 ---
 ##  Speaking, Writing & Community  
-- Featured on my blog: [Cyberdom.blog](https://cyberdom.blog) with deep dives into identity abuse, cloud hunting, AI red teaming, and OffSec AI.  
+- Featured on my blog: [Cyberdom.blog](https://cyberdom.blog) with deep dives into identity abuse, cloud threat-hunting, AI Red-Teaming, and OffSec AI.  
 - Regularly present at Purple Hat events (attack/defend tracks) and community meet-ups.  
 - Active on LinkedIn and X: follow for micro-insights on AI security, token abuse, and cloud IR.
 
